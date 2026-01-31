@@ -30,20 +30,20 @@
 
 ## Phase 2: Build System (CMake + Ninja)
 
-- [ ] Configure CMake minimum version (3.25+)
-- [ ] Set C++23 standard
-- [ ] Add source file globbing
-- [ ] Configure resource compilation (.rc)
-- [ ] Add `-municode` compile flag (Unicode entry point)
-- [ ] Add `-O3 -Wall` compile flags
-- [ ] Add static linking flags (`-static -static-libgcc -static-libstdc++`)
-- [ ] Link `comctl32` (Common Controls)
-- [ ] Link `shlwapi` (Shell helpers)
-- [ ] Link `dwmapi` (DWM API)
-- [ ] Link `uxtheme` (Visual Styles)
-- [ ] Link `advapi32` (Registry API)
-- [ ] Verify clean build with Ninja
-- [ ] Verify output `.exe` runs without MinGW DLL dependencies
+- [x] Configure CMake minimum version (3.25+)
+- [x] Set C++23 standard
+- [x] Add source file globbing
+- [x] Configure resource compilation (.rc)
+- [x] Add `-municode` compile flag (Unicode entry point)
+- [x] Add `-O3 -Wall` compile flags
+- [x] Add static linking flags (`-static -static-libgcc -static-libstdc++`)
+- [x] Link `comctl32` (Common Controls)
+- [x] Link `shlwapi` (Shell helpers)
+- [x] Link `dwmapi` (DWM API)
+- [x] Link `uxtheme` (Visual Styles)
+- [x] Link `advapi32` (Registry API)
+- [x] Verify clean build with Ninja
+- [x] Verify output `.exe` runs without MinGW DLL dependencies
 
 ---
 
