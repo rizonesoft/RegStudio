@@ -73,9 +73,9 @@
 ## Phase 5: Main Window UI
 
 ### Window Chrome
-- [ ] Set window title to "RegStudio"
-- [ ] Set window icon (from resources)
-- [ ] Apply dark title bar (`DwmSetWindowAttribute` DWMWA_USE_IMMERSIVE_DARK_MODE)
+- [x] Set window title to "RegStudio"
+- [x] Set window icon (from resources)
+- [x] Apply dark title bar (`DwmSetWindowAttribute` DWMWA_USE_IMMERSIVE_DARK_MODE)
 
 ### Layout
 - [ ] Create splitter/resizable panes (left/right)
@@ -83,11 +83,11 @@
 - [ ] Store pane width ratio on resize
 
 ### Menu Bar
-- [ ] Create menu resource (`IDR_MAINMENU`)
-- [ ] File menu: Exit
-- [ ] Edit menu: Find, Copy, Paste
-- [ ] View menu: Refresh
-- [ ] Help menu: About
+- [x] Create menu resource (`IDR_MAINMENU`)
+- [x] File menu: Exit
+- [x] Edit menu: Find, Copy, Paste
+- [x] View menu: Refresh
+- [x] Help menu: About
 
 ---
 
