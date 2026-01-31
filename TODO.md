@@ -6,11 +6,11 @@
 
 ## Phase 0: GitHub Repository Setup
 
-- [ ] Create GitHub repository `rizonesoft/RegStudio`
-- [ ] Add `.gitignore` for C++/CMake projects
-- [ ] Add `LICENSE` file (MIT or your preferred license)
-- [ ] Create initial `README.md` with project overview
-- [ ] Push initial commit
+- [x] Create GitHub repository `rizonesoft/RegStudio`
+- [x] Add `.gitignore` for C++/CMake projects
+- [x] Add `LICENSE` file (MIT or your preferred license)
+- [x] Create initial `README.md` with project overview
+- [x] Push initial commit
 
 ---
 
