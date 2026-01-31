@@ -59,14 +59,14 @@
 
 ## Phase 4: Entry Point & Message Loop
 
-- [ ] Implement `wWinMain` entry point
-- [ ] Initialize Common Controls (`InitCommonControlsEx`)
-- [ ] Create main window class (`WNDCLASSEXW`)
-- [ ] Register window class
-- [ ] Create main window (`CreateWindowExW`)
-- [ ] Implement message loop (`GetMessage`, `TranslateMessage`, `DispatchMessage`)
-- [ ] Handle `WM_DESTROY` → `PostQuitMessage`
-- [ ] Verify empty window appears
+- [x] Implement `wWinMain` entry point
+- [x] Initialize Common Controls (`InitCommonControlsEx`)
+- [x] Create main window class (`WNDCLASSEXW`)
+- [x] Register window class
+- [x] Create main window (`CreateWindowExW`)
+- [x] Implement message loop (`GetMessage`, `TranslateMessage`, `DispatchMessage`)
+- [x] Handle `WM_DESTROY` → `PostQuitMessage`
+- [x] Verify empty window appears
 
 ---
 
