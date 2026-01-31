@@ -49,11 +49,11 @@
 
 ## Phase 3: Application Manifest
 
-- [ ] Add Common Controls v6 dependency
-- [ ] Add `requireAdministrator` execution level
-- [ ] Embed manifest in `resource.rc`
-- [ ] Verify UAC prompt appears on launch
-- [ ] Verify visual styles are active (non-Win95 look)
+- [x] Add Common Controls v6 dependency
+- [x] Add `requireAdministrator` execution level
+- [x] Embed manifest in `resource.rc`
+- [x] Verify UAC prompt appears on launch
+- [x] Verify visual styles are active (non-Win95 look)
 
 ---
 
