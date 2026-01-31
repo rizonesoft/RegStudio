@@ -16,15 +16,15 @@
 
 ## Phase 1: Project Structure
 
-- [ ] Create `CMakeLists.txt` (root)
-- [ ] Create `src/` directory
-- [ ] Create `src/main.cpp` (empty entry point stub)
-- [ ] Create `src/ui/` directory
-- [ ] Create `src/core/` directory
-- [ ] Create `resources/` directory
-- [ ] Create `resources/resource.rc` (empty stub)
-- [ ] Create `resources/app.manifest`
-- [ ] Add placeholder `resources/icon.ico`
+- [x] Create `CMakeLists.txt` (root)
+- [x] Create `src/` directory
+- [x] Create `src/main.cpp` (empty entry point stub)
+- [x] Create `src/ui/` directory
+- [x] Create `src/core/` directory
+- [x] Create `resources/` directory
+- [x] Create `resources/resource.rc` (empty stub)
+- [x] Create `resources/app.manifest`
+- [x] Add placeholder `resources/icon.ico`
 
 ---
 

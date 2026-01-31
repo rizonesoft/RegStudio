@@ -1,0 +1,11 @@
+/**
+ * RegStudio Resource Script
+ */
+
+#include <windows.h>
+
+// Application Icon (TODO: Convert to .ico for production)
+// IDI_APP ICON "icon.ico"
+
+// Application Manifest (enables visual styles + admin rights)
+1 24 "app.manifest"
